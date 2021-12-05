@@ -14,12 +14,12 @@ PRODUCT_PACKAGES += libdisplayconfig \
                     libsmomoconfig.qti \
                     libcomposerextn.qti \
                     libdisplayconfig.qti \
-                    vendor.qti.hardware.display.config-V1-ndk_platform \
-                    vendor.qti.hardware.display.config-V2-ndk_platform \
-                    vendor.qti.hardware.display.config-V3-ndk_platform \
-                    vendor.qti.hardware.display.config-V4-ndk_platform \
-                    vendor.qti.hardware.display.config-V5-ndk_platform \
-                    vendor.qti.hardware.display.config-V6-ndk_platform
+                    vendor.qti.hardware.display.config-V1-ndk \
+                    vendor.qti.hardware.display.config-V2-ndk \
+                    vendor.qti.hardware.display.config-V3-ndk \
+                    vendor.qti.hardware.display.config-V4-ndk \
+                    vendor.qti.hardware.display.config-V5-ndk \
+                    vendor.qti.hardware.display.config-V6-ndk
 
 SOONG_CONFIG_NAMESPACES += qtidisplaycommonsys
 SOONG_CONFIG_NAMESPACES += qtiunifeddraw
